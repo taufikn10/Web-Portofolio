@@ -70,6 +70,7 @@ h6 {
   height: 100vh;
   position: relative;
   color: #fff;
+  background-image: url(../images/background.png);
   background-size: cover;
 }
 
